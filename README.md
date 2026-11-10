@@ -46,19 +46,19 @@ These figures come from the saved outputs of the notebook. Counts and proportion
 
 ### Python use by age group
 
-![Python adoption by age group](images/python_by_age.png)
+![Python adoption by age group](python_by_age.png)
 
 ### Industries among higher-paid remote respondents
 
-![Industries of high-paid remote professionals](images/industries_high_paid_remote.png)
+![Industries of high-paid remote professionals](industries_high_paid_remote.png)
 
 ### Remote work and online learning
 
-![Remote work and online-course learning counts](images/work_and_learning.png)
+![Remote work and online-course learning counts](work_and_learning.png)
 
 ### Professional experience
 
-![Mean, median and mode of work experience](images/work_experience.png)
+![Mean, median and mode of work experience](work_experience.png)
 
 The charts were prepared separately from the notebook's saved outputs; the original analysis code was not modified to generate them.
 
